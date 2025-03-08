@@ -7,6 +7,6 @@
 * 
 ## Hecho por:
 
-###Laura Pérez
+##Laura Pérez
 
 ### Linkedin: https://www.linkedin.com/in/laura-perez-gpti/
